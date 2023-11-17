@@ -1,4 +1,4 @@
-a=10
+a=100
 b=320
 sum=a+b
 print "sum of two numbers is: sum"
