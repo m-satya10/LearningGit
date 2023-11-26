@@ -1,5 +1,6 @@
 a=100
 b=320
-sum=a+b
+c=20
+sum=a+b+c
 print "the sum of 2 numbers is equal to = sum"
 
